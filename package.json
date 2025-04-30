@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/AbhisekDas01/Renzies-game-React-project.git",
+  "homepage": "https://abhisekdas01.github.io/Renzies-game-React-project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
